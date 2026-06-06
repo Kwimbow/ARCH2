@@ -66,7 +66,8 @@ energyScore = actualPower × execTime
 - e. The screen will display the 8 cores of the CPU. Inactive cores are neutral, while active cores are colored. Green for Active cores, neutral for Inactive cores, red for Throttling.
 
 ## Tentative Style Guide Plan
-**insert images here**
+![active cores](https://github.com/Kwimbow/ARCH2/blob/main/style-guide-ref-1.png)
+![thermal throttling](https://github.com/Kwimbow/ARCH2/blob/main/style-guide-ref-2.png)
 
 ## References:
 - https://en.wikipedia.org/wiki/Multi-core_processor
