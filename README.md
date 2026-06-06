@@ -1,6 +1,18 @@
 # CSARCH2 Case Study: Virtual Exhibit Topic Proposal
 
-## Group's Title: Multi-tasking the bombing of Andrew WTF??? HELL YEAH
+## Table of Contents
+- [Group's Title](#groups-title)
+- [Group Roster](#group-roster)
+- [Group's Topic Theme](#groups-topic-theme)
+- [Category](#category)
+- [Tech Stack Plan](#tech-stack-plan)
+    - [Problem Solving Story](#problem-solving-story)
+    - [Interactive Element](#interactive-element)
+- [Tenetative Style Guide Plan](#tentative-style-guide-plan)
+- [References](#references)
+
+## Group's Title
+- Multi-tasking the bombing of Andrew WTF??? HELL YEAH
 
 ## Group Roster:
 - Byron Scott Ang
@@ -56,7 +68,7 @@ energyScore = actualPower × execTime
 ## Tentative Style Guide Plan
 **insert images here**
 
-## ReferencesReferences:
+## References:
 - https://en.wikipedia.org/wiki/Multi-core_processor
 - https://www.cs.utexas.edu/~lin/cs380p/Free_Lunch.pdf
 - https://www.edn.com/future-of-computers-part-2-the-power-wall/ 
