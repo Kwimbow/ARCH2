@@ -12,7 +12,7 @@
 - [References](#references)
 
 ## Group's Title
-- Multi-tasking the bombing of Andrew WTF??? HELL YEAH
+-  Multicore Processors: Keeping It Cool
 
 ## Group Roster:
 - Byron Scott Ang
