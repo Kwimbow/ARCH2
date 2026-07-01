@@ -18,8 +18,8 @@ energyScore = actualPower × execTime
 export default function InteractiveCpu() {
     // Reactive states
     const [cores, setCores] = useState(5);
-    const [clock, setClock] = useState(4.1);
-    const [tdp, setTdp] = useState(65);
+    const [clock, setClock] = useState(3.0);
+    const [tdp, setTdp] = useState(100);
     
     // Computed vals
     const WORKLOAD = 5000;
