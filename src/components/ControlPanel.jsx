@@ -6,7 +6,7 @@ const TDP_OPTIONS = [
   { label: "150W", value: 150 },
 ];
 
-export default function ControlPanel({onChange, defaultCores = 4, defaultClock = 4.1, defaultTdp = 65 }) {
+export default function ControlPanel({onChange, defaultCores = 4, defaultClock = 4.0, defaultTdp = 65 }) {
   const [cores, setCores] = useState(defaultCores);
   const [clock, setClock] = useState(defaultClock);
   const [tdp, setTdp] = useState(defaultTdp);
